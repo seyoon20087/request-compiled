@@ -1,0 +1,9 @@
+{
+  "name": "request-compiled",
+  "type": "commonjs",
+  "version": "999.0.0",
+  "description": "compiled version of request@2.88.2. NOTE: please don't use this unless you know what you're doing",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
